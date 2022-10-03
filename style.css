@@ -1,5 +1,18 @@
+header{
+    background-color: aqua;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+
 h1{
     color: blue;
     font-size: 5rem;
     text-align: center;
+}
+
+p{
+    color: red;
+    font-size: 1rem;
 }
